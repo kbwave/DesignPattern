@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DesignPattern02Adapter
+</name>
+</assembly>
+<members>
+<member name="M:DesignPattern02Adapter.modMain.UseInherits">
+	<summary>
+ 継承を使ってアダプター
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DesignPattern02Adapter.modMain.UseTransfer">
+	<summary>
+ 委譲を使ってアダプター
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DesignPattern02Adapter.modMain">
+	<summary>
+ メインモジュール
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DesignPattern02Adapter.clsBanner">
+	<summary>
+ 広告クラス(継承・委譲と共通)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DesignPattern02Adapter.My.Resources.Resources.ResourceManager">
+	<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member><member name="P:DesignPattern02Adapter.My.Resources.Resources.Culture">
+	<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member><member name="T:DesignPattern02Adapter.My.Resources.Resources">
+	<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member><member name="T:DesignPattern02Adapter.clsPrintBanner">
+	<summary>
+ clsPrintのアダプタ
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DesignPattern02Adapter.clsPrint">
+	<summary>
+ Printクラス(委譲)
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DesignPattern02Adapter.clsPrintChild">
+	<summary>
+ Printクラスを継承したクラス
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DesignPattern02Adapter.IPrint">
+	<summary>
+ Printインタフェース
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

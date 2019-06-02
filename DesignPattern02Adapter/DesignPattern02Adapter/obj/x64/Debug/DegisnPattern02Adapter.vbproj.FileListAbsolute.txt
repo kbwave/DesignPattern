@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\bin\x64\Debug\DegisnPattern02Adapter.exe.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\bin\x64\Debug\DegisnPattern02Adapter.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\bin\x64\Debug\DegisnPattern02Adapter.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\bin\x64\Debug\DegisnPattern02Adapter.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.windowSelect.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\DegisnPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.pdb
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern02Adapter\DegisnPattern02Adapter\bin\x64\Debug\DegisnPattern02Adapter.exe.config
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.exe
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.xml
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern02Adapter\DegisnPattern02Adapter\obj\x64\Debug\DegisnPattern02Adapter.pdb
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern02Adapter\DegisnPattern02Adapter\bin\x64\Debug\DesignPattern02Adapter.exe.config

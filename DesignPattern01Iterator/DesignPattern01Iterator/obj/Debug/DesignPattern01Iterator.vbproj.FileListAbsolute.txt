@@ -1,0 +1,2 @@
+D:\VS2013_project\Projects\DesignPattern01Iterator\DesignPattern01Iterator\bin\Debug\DesignPattern01Iterator.exe.config
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern01Iterator\DesignPattern01Iterator\bin\Debug\DesignPattern01Iterator.exe.config
