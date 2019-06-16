@@ -1,0 +1,1 @@
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\DesignPattern03TemplateMethod\DesignPattern03TemplateMethod\bin\x64\Debug\DesignPattern03TemplateMethod.exe.config
